@@ -13,8 +13,13 @@ function Home() {
                 <h2>Education</h2>
                 <h3>General Assembly</h3>
                 <p>Software Engineering Certificate - May 2021</p>
+                <br></br>
                 <h3>Tulsa Technology Center</h3>
                 <p>NIMs Certified - July 2012</p>
+                <br></br>
+                <h2>Skills</h2>
+                <p>JavaScript | HTML | CSS | React | Express | Django | Node.js</p>
+                <br></br>
                 <Cards/>
                 <Footer />
             </div>

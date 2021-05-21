@@ -32,10 +32,15 @@
   margin-top: 50px;
 }
 
-p, h2{
+p{
   margin: 20px 19%;
   text-align: left;
   border-bottom: 2px solid lightskyblue;
+  font-family: 'Raleway', sans-serif;
+}
+
+h2{
+  margin: 20px 19%;
   font-family: 'Raleway', sans-serif;
 }
 
