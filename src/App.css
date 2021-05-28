@@ -53,3 +53,8 @@ h3{
 h1 {
   font-family: 'Raleway', sans-serif;
 }
+
+.profilePic {
+  width: 400px;
+  border-radius: 20px;
+}
