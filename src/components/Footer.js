@@ -16,7 +16,7 @@ function Footer() {
             <h4>(918)527-4704</h4>
             <h4>bunmee.vang@gmail.com</h4>
             <a target={"_blank"} href={'https://www.linkedin.com/in/bunmee-vang-71a25620a/'}>LinkedIn</a>
-            <a target={"_blank"} href={'https://www.facebook.com/bun.vang/'}>FaceBook</a>
+            {/* <a target={"_blank"} href={'https://www.facebook.com/bun.vang/'}>FaceBook</a> */}
             <a target={"_blank"} href={'https://github.com/bunmeevang'}>GitHub</a>
           </div>
         </div>
